@@ -19,7 +19,7 @@ var imageRepository = new function() {
 	this.background = new Image();
 	
 	// Set images src
-	this.background.src = "Game/background.png";
+	this.background.src = "background.png";
 }
 
 
